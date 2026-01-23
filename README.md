@@ -6,5 +6,5 @@ As I’m actively improving the simulator's usability, realism, and feedback sys
 👉 Live demo link: https://duongphuongleo.github.io/surveying-2d-simulator-version0.github.io/
 # surveying-2d-simulator-version1 (Expecting: Jan 31, 2026)
 👉 Live demo link:
-# surveying-2d-simulator-version2 (Expecting: Feb 21, 2026)
+# surveying-2d-simulator-version2 (Expecting: Feb 2026)
 👉 Live demo link:
