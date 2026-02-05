@@ -15,40 +15,41 @@ Civil Engineering Technology Diploma, Sep. 2025 - Present
 - Ontario G2 Driver’s license
 - WHMIS 2015, GIP, Issued: 2025/11/03
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
-
+#
 # Winter 2026 semester relevant courses include:
+#
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
-👉WEEK 1
-👉WEEK 2
-👉WEEK 3
-👉WEEK 4
-👉WEEK 5
+- WEEK 1
+- WEEK 2
+- WEEK 3
+- WEEK 4
+- WEEK 5
 
 # Codes and Standards_W26 - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
-👉Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
-Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
+- Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
+👉 Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
 
-👉 Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
+- Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
 
-👉 Ministry of the Environment, Conservation and Parks (MECP); Design Guidelines for Sewage and for Drinking Water, Stormwater Management Design Manuals
+- Ministry of the Environment, Conservation and Parks (MECP); Design Guidelines for Sewage and for Drinking Water, Stormwater Management Design Manuals
 Conservation Authorities; Lake Simcoe Region Conservation Authority (LSRCA), Lake Simcoe Protection Plan (LSPP), and Nottawasaga Conservation Authority (NVCA)
 👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
 
-👉 Ontario Building Code (OBC)
-Municipal Class Septic Design
-Accessibility for Ontarians with Disabilities Act (AODA)
+- Ontario Building Code (OBC)
+👉 Municipal Class Septic Design
+👉 Accessibility for Ontarians with Disabilities Act (AODA)
 
-👉 Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
+- Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
+#
 # Material Science - Instructor: Michael Scott
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
-
-👉 Lab Report 1_JAN 26,2026
-Atterberg Limit lab_W26_[Sheet:]([url](https://docs.google.com/spreadsheets/d/1wFTU_wEVMU90XoHVIKDO5GY3hsHn654Iwuz6f8Sw9Gs/edit?usp=sharing))
-Compaction Lab_W26_[Sheet]([url](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)): 
+- Lab Report 1_JAN 26,2026
+👉 Atterberg Limit lab_W26_[Sheet:](https://docs.google.com/spreadsheets/d/1wFTU_wEVMU90XoHVIKDO5GY3hsHn654Iwuz6f8Sw9Gs/edit?usp=sharing))
+👉 Compaction Lab_W26_[Sheet:](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)): 
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
 We explore structures’ behavior in static equilibrium, we evaluate external and internal reaction forces due to applied forces and reaction forces in members and joints of a structure.
