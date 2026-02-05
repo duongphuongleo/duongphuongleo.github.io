@@ -3,9 +3,9 @@ As a motivated Civil Engineering Technician student, I am seeking to contribute 
 # LinkedIn: www.linkedin.com/in/phuong-duong-167144315
 
 # EDUCATION
-Civil Engineering Technology Diploma						Sep. 2025 - Present
 Georgian College, Barrie, ON
-
+Civil Engineering Technology Diploma, Sep. 2025 - Present
+-
 # HIGHLIGHTS OF QUALIFICATION 
 - Professional work attitude
 - Respectful communication
@@ -15,10 +15,8 @@ Georgian College, Barrie, ON
 - Ontario G2 Driver’s license
 - WHMIS 2015, GIP, Issued: 2025/11/03
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
-#
-#
+
 # Winter 2026 semester relevant courses include:
-#
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
