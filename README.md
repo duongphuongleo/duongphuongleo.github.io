@@ -15,7 +15,7 @@ Georgian College, Barrie, ON
 - Ontario G2 Driver’s license
 - WHMIS 2015, GIP                 Issued: 2025/11/03
 - Roadside safety (Book 7)				Issued: 2026/01/20 		Expired: 2029/01/20
-
+#
 # Winter 2026 semester Relevant courses include:
 #
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
@@ -54,7 +54,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-
+#
 #
 # W26_Surveying 1 hobby project
 #
@@ -67,8 +67,8 @@ As I’m actively improving the simulator's usability, realism, and feedback sys
 👉 (keyboard input) Live demo link: https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/
 # surveying_levelling_simulator-version0 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo link:
-
-
+#
+#
 # Fall-Winter 2025 semester Relevant courses include:
 #
 # Construction Practices - Instructor: Mary Spencer
