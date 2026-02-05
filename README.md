@@ -13,8 +13,8 @@ Georgian College, Barrie, ON
 - Maintains accuracy and confidentiality in record-keeping activity
 - Effectively works as a team member and independently
 - Ontario G2 Driver’s license
-- WHMIS 2015, GIP                 Issued: 2025/11/03
-- Roadside safety (Book 7)				Issued: 2026/01/20 		Expired: 2029/01/20
+- WHMIS 2015, GIP         Issued: 2025/11/03
+- Roadside safety (Book 7)Issued: 2026/01/20 		Expired: 2029/01/20
 #
 #
 # Winter 2026 semester relevant courses include:
@@ -38,7 +38,6 @@ Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
 
 👉 Ministry of the Environment, Conservation and Parks (MECP); Design Guidelines for Sewage and for Drinking Water, Stormwater Management Design Manuals
 Conservation Authorities; Lake Simcoe Region Conservation Authority (LSRCA), Lake Simcoe Protection Plan (LSPP), and Nottawasaga Conservation Authority (NVCA)
-
 👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
 
 👉 Ontario Building Code (OBC)
@@ -46,12 +45,12 @@ Municipal Class Septic Design
 Accessibility for Ontarians with Disabilities Act (AODA)
 
 👉 Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
-
 # Material Science - Instructor: Michael Scott
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
+
 👉 Lab Report 1_JAN 26,2026
-Atterberg Limit lab_W26_Sheet: https://docs.google.com/spreadsheets/d/1wFTU_wEVMU90XoHVIKDO5GY3hsHn654Iwuz6f8Sw9Gs/edit?usp=sharing
-Compaction Lab_W26_Sheet: https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing
+Atterberg Limit lab_W26_[Sheet:]([url](https://docs.google.com/spreadsheets/d/1wFTU_wEVMU90XoHVIKDO5GY3hsHn654Iwuz6f8Sw9Gs/edit?usp=sharing))
+Compaction Lab_W26_[Sheet]([url](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)): 
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
 We explore structures’ behavior in static equilibrium, we evaluate external and internal reaction forces due to applied forces and reaction forces in members and joints of a structure.
@@ -66,9 +65,9 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
 This is my first working version of an interactive differential levelling practice tool, built to help beginners visualize surveying concepts. 
 As I’m actively improving the simulator's usability, realism, and feedback systems, I continue to gain the practice time and the practial equipment skill in my Surveying 2 in the 2nd semester.
-👉 (keyboard input) Live demo link: https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/
+👉 (keyboard input) Live demo [link]:https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
 # surveying_measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26,2026
-👉 (keyboard input) Live demo [link]:([url](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
+👉 (keyboard input) Live demo [link]:https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
 # surveying_levelling_simulator-version0 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo link:
 # 
