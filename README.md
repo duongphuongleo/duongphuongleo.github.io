@@ -13,8 +13,8 @@ Georgian College, Barrie, ON
 - Maintains accuracy and confidentiality in record-keeping activity
 - Effectively works as a team member and independently
 - Ontario G2 Driver’s license
-- WHMIS 2015, GIP         Issued: 2025/11/03
-- Roadside safety (Book 7)Issued: 2026/01/20 		Expired: 2029/01/20
+- WHMIS 2015, GIP, Issued: 2025/11/03
+- Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
 #
 #
 # Winter 2026 semester relevant courses include:
