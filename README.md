@@ -22,16 +22,16 @@ Georgian College, Barrie, ON
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
-👉 WEEK 1
-👉 WEEK 2
-👉 WEEK 3
-👉 WEEK 4
-👉 WEEK 5
+👉WEEK 1
+👉WEEK 2
+👉WEEK 3
+👉WEEK 4
+👉WEEK 5
 
 # Codes and Standards_W26 - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
-👉 Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
+👉Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
 Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
 
 👉 Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
