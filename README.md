@@ -4,8 +4,7 @@ As a motivated Civil Engineering Technician student, I am seeking to contribute 
 
 # EDUCATION
 Georgian College, Barrie, ON
-Civil Engineering Technology Diploma, 
-- Sep. 2025 - Present
+- Civil Engineering Technology Diploma,                      Sep. 2025 - Present
 # HIGHLIGHTS OF QUALIFICATION 
 - Professional work attitude
 - Respectful communication
@@ -56,28 +55,31 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
 #
+#
 # W26_Surveying 1 hobby project
 #
 # surveying_measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
+👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
 (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
 This is my first working version of an interactive differential levelling practice tool, built to help beginners visualize surveying concepts. 
 As I’m actively improving the simulator's usability, realism, and feedback systems, I continue to gain the practice time and the practial equipment skill in my Surveying 2 in the 2nd semester.
-👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
+
 # surveying_measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26,2026
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
 # surveying_levelling_simulator-version0 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo link:
+#
 #
 # Fall-Winter 2025 semester Relevant courses include:
 #
 # Construction Practices - Instructor: Mary Spencer
 Work Integrity, Engineering Integrity, Engineering Ethic-Safety Study Case, OSHA Act, Heavy Equipment Efficiency Production, Estimation of Production Cost, Spoil Pile base and height calculation, and Trench Safety, Material Properties Basics
 # Communication Essential - Instructor: Christine Pryce
-
+#
 # Intro to Classical Physics - Instructor: Ryan Habkirk
 # 2D AutoCAD - Instructor: Tim Gignac
 Familiar and Proficient in creating property boundaries from bearings/distances, generating contours, and producing cross-sections
-
+#
 # Surveying 1- Instructor: Joseph Markovic
 Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, organization habits of field note-taking practices and compose a summary in a Word document
 Work as a group member and also to provide signature of involvement as a member in formal assessments
