@@ -4,8 +4,8 @@ As a motivated Civil Engineering Technician student, I am seeking to contribute 
 
 # EDUCATION
 Georgian College, Barrie, ON
-Civil Engineering Technology Diploma, Sep. 2025 - Present
--
+Civil Engineering Technology Diploma, 
+- Sep. 2025 - Present
 # HIGHLIGHTS OF QUALIFICATION 
 - Professional work attitude
 - Respectful communication
@@ -17,7 +17,6 @@ Civil Engineering Technology Diploma, Sep. 2025 - Present
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
 #
 # Winter 2026 semester relevant courses include:
-#
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
@@ -31,17 +30,17 @@ Critical Thinking, Problem Solving, Numeracy, Information Management, and Commun
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
 - Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
-👉 Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
+- 👉 Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
 
 - Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
 
 - Ministry of the Environment, Conservation and Parks (MECP); Design Guidelines for Sewage and for Drinking Water, Stormwater Management Design Manuals
 Conservation Authorities; Lake Simcoe Region Conservation Authority (LSRCA), Lake Simcoe Protection Plan (LSPP), and Nottawasaga Conservation Authority (NVCA)
-👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
+- 👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
 
 - Ontario Building Code (OBC)
-👉 Municipal Class Septic Design
-👉 Accessibility for Ontarians with Disabilities Act (AODA)
+- 👉 Municipal Class Septic Design
+- 👉 Accessibility for Ontarians with Disabilities Act (AODA)
 
 - Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
 #
@@ -56,10 +55,9 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-# 
-# 
+#
 # W26_Surveying 1 hobby project
-# 
+#
 # surveying_measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
 (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
 This is my first working version of an interactive differential levelling practice tool, built to help beginners visualize surveying concepts. 
@@ -69,8 +67,6 @@ As I’m actively improving the simulator's usability, realism, and feedback sys
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
 # surveying_levelling_simulator-version0 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo link:
-#
-#
 #
 # Fall-Winter 2025 semester Relevant courses include:
 #
