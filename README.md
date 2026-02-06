@@ -60,9 +60,7 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 #
 # surveying_measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
-(Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
-This is my first working version of an interactive differential levelling practice tool, built to help beginners visualize surveying concepts. 
-As I’m actively improving the simulator's usability, realism, and feedback systems, I continue to gain the practice time and the practial equipment skill in my Surveying 2 in the 2nd semester.
+- (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
 
 # surveying_measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26,2026
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
