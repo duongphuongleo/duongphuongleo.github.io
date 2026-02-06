@@ -1,6 +1,8 @@
 # PROFESSIONAL SUMMARY
-# LinkedIn
-- Back to [profile:](www.linkedin.com/in/phuong-duong-167144315))
+- My name is Phuong. I am currently enrolled in the Civil Engineering Technology – Technician program at Georgian College. 
+As a Civil Engineering student, I believed in the values of being accountable, continuous learning and organization. I am motivated to gain valuable hands-on experience during my co-op, while contributing positively to a collaborative engineering environment.
+I believed that my strong work ethic, and the willingness to learn would allow me to be a valuable co-op student.
+# LinkedIn: Back to [profile:](www.linkedin.com/in/phuong-duong-167144315))
 
 # EDUCATION
 Georgian College, Barrie, ON
@@ -55,19 +57,18 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-# 
-# 
+# #
 # W26_Surveying 1 hobby project
 #
-# surveying_measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
+# measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
 - (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
-
-# surveying_measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26,2026
+# measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26,2026
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
-# surveying_levelling_simulator-version0 (Expecting: Feb 31 2026, To-be-Published: Feb 15,2026)
+# levelling_simulator-version0 (Expecting: Feb 15 2026, Published: Feb 6,2026)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
-# 
+# levelling_simulator-version1 (Expecting: Feb 31 2026)
+👉 (keyboard input) Live demo [link:
 # 
 # Fall-Winter 2025 semester Relevant courses include:
 # 
@@ -76,9 +77,10 @@ Work Integrity, Engineering Integrity, Engineering Ethic-Safety Study Case, OSHA
 # Communication Essential - Instructor: Christine Pryce
 # 
 # Intro to Classical Physics - Instructor: Ryan Habkirk
+
 # 2D AutoCAD - Instructor: Tim Gignac
 Familiar and Proficient in creating property boundaries from bearings/distances, generating contours, and producing cross-sections
-#
+
 # Surveying 1- Instructor: Joseph Markovic
 Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, organization habits of field note-taking practices and compose a summary in a Word document
 Work as a group member and also to provide signature of involvement as a member in formal assessments
