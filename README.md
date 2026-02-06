@@ -14,7 +14,7 @@ Georgian College, Barrie, ON
 - Ontario G2 Driver’s license
 - WHMIS 2015, GIP, Issued: 2025/11/03
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
-# 
+#
 # Winter 2026 semester relevant courses include:
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
@@ -42,7 +42,8 @@ Conservation Authorities; Lake Simcoe Region Conservation Authority (LSRCA), Lak
 - 👉 Accessibility for Ontarians with Disabilities Act (AODA)
 
 - Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
-# 
+
+
 # Material Science - Instructor: Michael Scott
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
 - Lab Report 1_JAN 26,2026
@@ -55,8 +56,9 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
 # 
-# W26_Surveying 1 hobby project
 # 
+# W26_Surveying 1 hobby project
+#
 # surveying_measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
 - (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
