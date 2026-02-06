@@ -17,7 +17,7 @@ Georgian College, Barrie, ON
 - WHMIS 2015, GIP, Issued: 2025/11/03
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
 #
-# Winter 2026 semester relevant courses include:
+# ----- Winter 2026 semester relevant courses include: ------
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
@@ -59,7 +59,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
 # 
 # 
-# W26_Surveying 1 hobby project
+# ------ W26_Surveying 1 hobby project ------
 # 
 # measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
@@ -72,7 +72,7 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 👉 (keyboard input) Live demo [link:
 # 
 # 
-# Fall-Winter 2025 semester relevant courses include:
+# ------ Fall-Winter 2025 semester relevant courses include: ------
 # Construction Practices - Instructor: Mary Spencer
 Work Integrity, Engineering Integrity, Engineering Ethic-Safety Study Case, OSHA Act, Heavy Equipment Efficiency Production, Estimation of Production Cost, Spoil Pile base and height calculation, and Trench Safety, Material Properties Basics
 # Communication Essential - Instructor: Christine Pryce
