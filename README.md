@@ -1,5 +1,5 @@
 # PROFESSIONAL SUMMARY
-# [LinkedIn:]((www.linkedin.com/in/phuong-duong-167144315))
+# LinkedIn: Back to [profile](www.linkedin.com/in/phuong-duong-167144315)
 
 # EDUCATION
 Georgian College, Barrie, ON
