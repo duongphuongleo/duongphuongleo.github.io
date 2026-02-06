@@ -1,5 +1,4 @@
 # PROFESSIONAL SUMMARY
-As a motivated Civil Engineering Technician student, I am seeking to contribute consistency, habits from a good standing academically, and past work experience to a meaningful co-op position.
 # [LinkedIn:]((www.linkedin.com/in/phuong-duong-167144315))
 
 # EDUCATION
