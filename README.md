@@ -1,6 +1,6 @@
 # PROFESSIONAL SUMMARY
 # LinkedIn
-- Back to [profile:](www.linkedin.com/in/phuong-duong-167144315)
+- Back to [profile:](www.linkedin.com/in/phuong-duong-167144315))
 
 # EDUCATION
 Georgian College, Barrie, ON
@@ -54,8 +54,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-#
-#
+
 # W26_Surveying 1 hobby project
 #
 # surveying_measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
@@ -66,14 +65,13 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
 # surveying_levelling_simulator-version0 (Expecting: Feb 31 2026, To-be-Published: Feb 15,2026)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
-#
-#
+# 
 # Fall-Winter 2025 semester Relevant courses include:
-#
+# 
 # Construction Practices - Instructor: Mary Spencer
 Work Integrity, Engineering Integrity, Engineering Ethic-Safety Study Case, OSHA Act, Heavy Equipment Efficiency Production, Estimation of Production Cost, Spoil Pile base and height calculation, and Trench Safety, Material Properties Basics
 # Communication Essential - Instructor: Christine Pryce
-#
+# 
 # Intro to Classical Physics - Instructor: Ryan Habkirk
 # 2D AutoCAD - Instructor: Tim Gignac
 Familiar and Proficient in creating property boundaries from bearings/distances, generating contours, and producing cross-sections
