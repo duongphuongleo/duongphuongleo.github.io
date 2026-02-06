@@ -72,8 +72,7 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 👉 (keyboard input) Live demo [link:
 # 
 # 
-# Fall-Winter 2025 semester Relevant courses include:
-# 
+# Fall-Winter 2025 semester relevant courses include:
 # Construction Practices - Instructor: Mary Spencer
 Work Integrity, Engineering Integrity, Engineering Ethic-Safety Study Case, OSHA Act, Heavy Equipment Efficiency Production, Estimation of Production Cost, Spoil Pile base and height calculation, and Trench Safety, Material Properties Basics
 # Communication Essential - Instructor: Christine Pryce
