@@ -64,8 +64,8 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 
 # surveying_measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26,2026
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
-# surveying_levelling_simulator-version0 (Expecting: Feb 31 2026)
-👉 (keyboard input) Live demo link:
+# surveying_levelling_simulator-version0 (Expecting: Feb 31 2026, To-be-Published: Feb 15,2026)
+👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
 #
 #
 # Fall-Winter 2025 semester Relevant courses include:
