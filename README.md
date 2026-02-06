@@ -57,9 +57,10 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-# #
+# 
+# 
 # W26_Surveying 1 hobby project
-#
+# 
 # measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
 - (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
@@ -69,6 +70,7 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
 # levelling_simulator-version1 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo [link:
+# 
 # 
 # Fall-Winter 2025 semester Relevant courses include:
 # 
