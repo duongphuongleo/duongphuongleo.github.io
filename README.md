@@ -2,11 +2,12 @@
 - My name is Phuong. I am currently enrolled in the Civil Engineering Technology – Technician program at Georgian College. 
 As a Civil Engineering student, I believed in the values of being accountable, continuous learning and organization. I am motivated to gain valuable hands-on experience during my co-op, while contributing positively to a collaborative engineering environment.
 I believed that my strong work ethic, and the willingness to learn would allow me to be a valuable co-op student.
-# LinkedIn: Back to [profile:](www.linkedin.com/in/phuong-duong-167144315))
-
+- LinkedIn: Back to [profile:]((www.linkedin.com/in/phuong-duong-167144315))
+# 
 # EDUCATION
 Georgian College, Barrie, ON
 - Civil Engineering Technology Diploma,                      Sep. 2025 - Present
+
 # HIGHLIGHTS OF QUALIFICATION 
 - Professional work attitude
 - Respectful communication
@@ -16,6 +17,7 @@ Georgian College, Barrie, ON
 - Ontario G2 Driver’s license
 - WHMIS 2015, GIP, Issued: 2025/11/03
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
+#
 #
 # ----- Winter 2026 semester relevant courses include: ------
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
@@ -72,7 +74,7 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 👉 (keyboard input) Live demo [link:
 # 
 # 
-# ------ Fall-Winter 2025 semester relevant courses include: ------
+------ Fall-Winter 2025 semester relevant courses include ------
 # Construction Practices - Instructor: Mary Spencer
 Work Integrity, Engineering Integrity, Engineering Ethic-Safety Study Case, OSHA Act, Heavy Equipment Efficiency Production, Estimation of Production Cost, Spoil Pile base and height calculation, and Trench Safety, Material Properties Basics
 # Communication Essential - Instructor: Christine Pryce
