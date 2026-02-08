@@ -17,6 +17,7 @@ Georgian College, Barrie, ON
 - WHMIS 2015, GIP, Issued: 2025/11/03
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
 #
+#
 # ----- Winter 2026 semester relevant courses include: ------
 #
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
@@ -24,7 +25,6 @@ The course introduces me to Excel spreadsheets, tender documents, the reading of
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
 
 WEEK 1:
-  - 
 WEEK 2: IF functions
 WEEK 3: sum functions, count functions, average functions, Date and Time functions
   - sum functions: Sum(), Sumif(), Sumifs()
@@ -59,9 +59,13 @@ Conservation Authorities; Lake Simcoe Region Conservation Authority (LSRCA), Lak
 - Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
 
 Week 1: Course Introduction, In-class discussion related to the creation and requirements for Codes and Standards
+
 Week 2: Intro to OPS, OPS Volumes 1 to 8, Knowing the difference and usuage of the Volumes, OPSS Provision 127, Search/Find function in PDF, How to use keyword when searching, In-class Assign.1 handout, 
+
 Week 3: Book 7 Training,
+
 Week 4: OPSD 
+
 Week 5: Test 1
   - self help sheet for finding Outer diameter Reinforce Concrete Pipe sizing
 
@@ -97,15 +101,15 @@ Work as a group member and also to provide signature of involvement as a member 
 #
 # ------ W26_Surveying 1 hobby project ------
 # 
-Measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
+- Measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
-- (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
+  - (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
 
-Measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26, 2026
+- Measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26, 2026
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
 
-Levelling_simulator-version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
+- Levelling_simulator-version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
 
-Levelling_simulator-version1 (Expecting: Feb 31 2026)
+- Levelling_simulator-version1 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo link:
