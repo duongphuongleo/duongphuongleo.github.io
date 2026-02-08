@@ -101,15 +101,17 @@ Work as a group member and also to provide signature of involvement as a member 
 #
 # ------ W26_Surveying 1 hobby project ------
 # 
-- Measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
+# Measuring_simulator: reduce browser screen to 80% by Ctrl + (-)
+- version0 (Prototype of a browser-based 2D Simulator)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
   - (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
 
-- Measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26, 2026
+- version1 (Expecting: Jan 31, 2026), Published: Jan 26, 2026
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
 
-- Levelling_simulator-version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
+# Levelling_simulator
+- version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
 👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
 
-- Levelling_simulator-version1 (Expecting: Feb 31 2026)
+- version1 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo link:
