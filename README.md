@@ -2,7 +2,7 @@
 - My name is Phuong. I am currently enrolled in the Civil Engineering Technology – Technician program at Georgian College. 
 As a Civil Engineering student, I believed in the values of being accountable, continuous learning and organization. I am motivated to gain valuable hands-on experience during my co-op, while contributing positively to a collaborative engineering environment.
 I believed that my strong work ethic, and the willingness to learn would allow me to be a valuable co-op student.
-- LinkedIn: Back to [profile:]((www.linkedin.com/in/phuong-duong-167144315))
+- LinkedIn: Back to [profile](www.linkedin.com/in/phuong-duong-167144315)
 # EDUCATION
 Georgian College, Barrie, ON
 - Civil Engineering Technology Diploma,                      Sep. 2025 - Present
@@ -67,12 +67,12 @@ Week 3: Book 7 Training,
 Week 4: OPSD 
 
 Week 5: Test 1
-  - self help [sheet](https://docs.google.com/spreadsheets/d/1JWM4qjFOEb8oMxvGGZm1lAUJC5VtgVyHRrUddHGq82A/edit?usp=sharing)) for finding Outer diameter Reinforce Concrete Pipe sizing
+  - self help [sheet](https://docs.google.com/spreadsheets/d/1JWM4qjFOEb8oMxvGGZm1lAUJC5VtgVyHRrUddHGq82A/edit?usp=sharing) for finding Outer diameter Reinforce Concrete Pipe sizing
 
 # Material Science - Instructor: Michael Scott
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
 - Lab Report 1:  JAN 26,2026
-- self help [sheet](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing))
+- self help [sheet](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)
 👉 Atterberg Limit lab data
 👉 Compaction lab Data 
 
@@ -103,15 +103,15 @@ Work as a group member and also to provide signature of involvement as a member 
 # 
 # Measuring_simulator: reduce browser screen to 80% by Ctrl and (-)
 - version0 (Prototype of a browser-based 2D Simulator)
-👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
+👉 (keyboard input) Live demo [link](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/)
   - (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
 
 - version1 (Expecting: Jan 31, 2026), Published: Jan 26, 2026
-👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
+👉 (keyboard input) Live demo [link](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/)
 
 # Levelling_simulator
 - version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
-👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
+👉 (keyboard input) Live demo [link](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)
 
 - version1 (Expecting: Feb 31 2026)
 👉 (keyboard input) Live demo link:
