@@ -22,12 +22,24 @@ Georgian College, Barrie, ON
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
-- WEEK 1
-- WEEK 2
-- WEEK 3
-- WEEK 4
-- WEEK 5
 
+WEEK 1:
+  - 
+WEEK 2: IF functions
+  - 
+WEEK 3: sum functions, count functions, average functions, Date and Time functions
+  - sum functions: Sum(), Sumif(), Sumifs()
+  - count functions: count(), countif(), countifs()
+  - average functions: average(), averageif(), averageifs()
+  - Today(),
+WEEK 4: Math rounding & Trig functions, VLookup and HLookup functions, Logical (and,or) functions
+  - basic rounding: round(to indicated decimal place), roundup(), rounddown(), int(), trunc()
+  - advance rounding: ceiling(), floor()
+  - logic functions: and(, or(), rank(), max(), min()
+
+WEEK 5: Text and Information function
+  - concatenate(), replace(), locate()
+#
 # Codes and Standards_W26 - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
@@ -67,22 +79,6 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
 #
 #
-# ------ W26_Surveying 1 hobby project ------
-# 
-Measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
-👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
-- (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
-
-Measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26, 2026
-👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
-
-Levelling_simulator-version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
-👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
-
-Levelling_simulator-version1 (Expecting: Feb 31 2026)
-👉 (keyboard input) Live demo [link:
-#
-#
 # ------ Fall-Winter 2025 semester relevant courses include ------
 #
 # Construction Practices - Instructor: Mary Spencer
@@ -98,3 +94,18 @@ Familiar and Proficient in creating property boundaries from bearings/distances,
 # Surveying 1- Instructor: Joseph Markovic
 Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, organization habits of field note-taking practices and compose a summary in a Word document
 Work as a group member and also to provide signature of involvement as a member in formal assessments
+#
+# ------ W26_Surveying 1 hobby project ------
+# 
+Measuring_simulator_version0 (Prototype of a browser-based 2D Simulator)
+👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version0.github.io/))
+- (Brainstorming for this side Activity Project and Earliest working version of the simulator started: Jan5, 2026)
+
+Measuring_simulator_version1 (Expecting: Jan 31, 2026), Published: Jan 26, 2026
+👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-measuring-simulator-version1.github.io/))
+
+Levelling_simulator-version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
+👉 (keyboard input) Live demo [link:](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)):
+
+Levelling_simulator-version1 (Expecting: Feb 31 2026)
+👉 (keyboard input) Live demo link:
