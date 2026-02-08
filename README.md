@@ -67,7 +67,7 @@ Week 3: Book 7 Training,
 Week 4: OPSD 
 
 Week 5: Test 1
-  - self help sheet for finding Outer diameter Reinforce Concrete Pipe sizing
+  - self help [sheet]([url](https://docs.google.com/spreadsheets/d/1JWM4qjFOEb8oMxvGGZm1lAUJC5VtgVyHRrUddHGq82A/edit?usp=sharing)) for finding Outer diameter Reinforce Concrete Pipe sizing
 
 # Material Science - Instructor: Michael Scott
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
