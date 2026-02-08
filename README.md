@@ -18,6 +18,7 @@ Georgian College, Barrie, ON
 - Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
 #
 # ----- Winter 2026 semester relevant courses include: ------
+#
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
