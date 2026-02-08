@@ -26,12 +26,12 @@ Critical Thinking, Problem Solving, Numeracy, Information Management, and Commun
 WEEK 1:
   - 
 WEEK 2: IF functions
-  - 
 WEEK 3: sum functions, count functions, average functions, Date and Time functions
   - sum functions: Sum(), Sumif(), Sumifs()
   - count functions: count(), countif(), countifs()
   - average functions: average(), averageif(), averageifs()
   - Today(),
+
 WEEK 4: Math rounding & Trig functions, VLookup and HLookup functions, Logical (and,or) functions
   - basic rounding: round(to indicated decimal place), roundup(), rounddown(), int(), trunc()
   - advance rounding: ceiling(), floor()
@@ -58,19 +58,19 @@ Conservation Authorities; Lake Simcoe Region Conservation Authority (LSRCA), Lak
 
 - Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
 
-- Week 1: Course Introduction, In-class discussion related to the creation and requirements for Codes and Standards
-- Week 2: Intro to OPS, OPS Volumes 1 to 8, Knowing the difference and usuage of the Volumes, OPSS Provision 127, Search/Find function in PDF, How to use keyword when searching, In-class Assign.1 handout, 
-- Week 3: Book 7 Training,
-- Week 4: OPSD
-- Week 5: Test 1
-- self help G. sheet
+Week 1: Course Introduction, In-class discussion related to the creation and requirements for Codes and Standards
+Week 2: Intro to OPS, OPS Volumes 1 to 8, Knowing the difference and usuage of the Volumes, OPSS Provision 127, Search/Find function in PDF, How to use keyword when searching, In-class Assign.1 handout, 
+Week 3: Book 7 Training,
+Week 4: OPSD 
+Week 5: Test 1
+  - self help sheet for finding Outer diameter Reinforce Concrete Pipe sizing
 
 # Material Science - Instructor: Michael Scott
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
 - Lab Report 1_JAN 26,2026
 
-👉 Atterberg Limit lab_W26_[Sheet:](https://docs.google.com/spreadsheets/d/1wFTU_wEVMU90XoHVIKDO5GY3hsHn654Iwuz6f8Sw9Gs/edit?usp=sharing))
-👉 Compaction Lab_W26_[Sheet:](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)) 
+👉 Atterberg Limit lab data
+👉 Compaction lab Data 
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
 We explore structures’ behavior in static equilibrium, we evaluate external and internal reaction forces due to applied forces and reaction forces in members and joints of a structure.
