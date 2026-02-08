@@ -78,8 +78,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
 #
-#
-# ------ Fall-Winter 2025 semester relevant courses include ------
+# ----- Fall 2025 semester relevant courses include: ------
 #
 # Construction Practices - Instructor: Mary Spencer
 Work Integrity, Engineering Integrity, Engineering Ethic-Safety Study Case, OSHA Act, Heavy Equipment Efficiency Production, Estimation of Production Cost, Spoil Pile base and height calculation, and Trench Safety, Material Properties Basics
@@ -94,6 +93,7 @@ Familiar and Proficient in creating property boundaries from bearings/distances,
 # Surveying 1- Instructor: Joseph Markovic
 Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, organization habits of field note-taking practices and compose a summary in a Word document
 Work as a group member and also to provide signature of involvement as a member in formal assessments
+#
 #
 # ------ W26_Surveying 1 hobby project ------
 # 
