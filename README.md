@@ -1,23 +1,3 @@
-# PROFESSIONAL SUMMARY
-- My name is Phuong. I am currently enrolled in the Civil Engineering Technology – Technician program at Georgian College. 
-As a Civil Engineering student, I believed in the values of being accountable, continuous learning and organization. I am motivated to gain valuable hands-on experience during my co-op, while contributing positively to a collaborative engineering environment.
-I believed that my strong work ethic, and the willingness to learn would allow me to be a valuable co-op student.
-- LinkedIn: Back to [profile](www.linkedin.com/in/phuong-duong-167144315)
-# EDUCATION
-Georgian College, Barrie, ON
-- Civil Engineering Technology Diploma,                      Sep. 2025 - Present
-
-# HIGHLIGHTS OF QUALIFICATION 
-- Professional work attitude
-- Respectful communication
-- Able to prioritize task with organization
-- Maintains accuracy and confidentiality in record-keeping activity
-- Effectively works as a team member and independently
-- Ontario G2 Driver’s license
-- WHMIS 2015, GIP, Issued: 2025/11/03
-- Roadside safety (Book 7), Issued: 2026/01/20, Expired: 2029/01/20
-#
-#
 # ----- Winter 2026 semester relevant courses include: ------
 #
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
@@ -99,7 +79,7 @@ Have experience in using Differential Levelling and Total Station equipment, tak
 Work as a group member and also to provide signature of involvement as a member in formal assessments
 # 
 # 
-# ------ W26_Surveying 1 hobby project ------
+# ------ W26_Surveying 2D Simulator hobby project ------
 # 
 # Measuring_simulator: reduce browser screen to 80% by Ctrl and (-)
 - version0 (Prototype of a browser-based 2D Simulator)
@@ -113,5 +93,5 @@ Work as a group member and also to provide signature of involvement as a member 
 - version0 (Expecting: Feb 15 2026), Published: Feb 6, 2026)
 👉 (keyboard input) Live demo [link](https://duongphuongleo.github.io/2d-surveying-levelling-simulator-version0.github.io/)
 
-- version1 (Expecting: Feb 31 2026)
-👉 (keyboard input) Live demo link:
+- version1 (Expecting: March 11 2026, Published: April 11, 2026)
+👉 (keyboard input) Live demo link: 
