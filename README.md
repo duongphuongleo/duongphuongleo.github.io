@@ -2,7 +2,7 @@
 semester 2 [redirect](https://duongphuongleo.github.io/SPRING-semester2-Jan2026-April2026-/)
 
 # FALL2025 (Sep-2025-Dec2025) 
-semester 1 redirect 
+semester 1 [redirect](https://duongphuongleo.github.io/FALL-semester-1-Sep-2025-Dec-2025-/)
 #
 # ------ W26_Surveying 2D Simulator hobby project ------
 # 
